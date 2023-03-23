@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 855499560298276986}
   - component: {fileID: 7386982581760071623}
   - component: {fileID: 6635472012976790606}
+  - component: {fileID: 4306683628089277656}
   m_Layer: 0
   m_Name: Flowers_01
   m_TagString: Untagged
@@ -219,3 +220,16 @@ MonoBehaviour:
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
+--- !u!65 &4306683628089277656
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5186735023776687486}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.31145722, y: 0.3828378, z: 0.3172882}
+  m_Center: {x: -0.027090028, y: 0.1818975, z: -0.027729198}
